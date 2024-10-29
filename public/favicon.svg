@@ -1,9 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
-    <path d="M50.4 78.5a75.1 75.1 0 0 0-28.5 6.9l24.2-65.7c.7-2 1.9-3.2 3.4-3.2h29c1.5 0 2.7 1.2 3.4 3.2l24.2 65.7s-11.6-7-28.5-7L67 45.5c-.4-1.7-1.6-2.8-2.9-2.8-1.3 0-2.5 1.1-2.9 2.7L50.4 78.5Zm-1.1 28.2Zm-4.2-20.2c-2 6.6-.6 15.8 4.2 20.2a17.5 17.5 0 0 1 .2-.7 5.5 5.5 0 0 1 5.7-4.5c2.8.1 4.3 1.5 4.7 4.7.2 1.1.2 2.3.2 3.5v.4c0 2.7.7 5.2 2.2 7.4a13 13 0 0 0 5.7 4.9v-.3l-.2-.3c-1.8-5.6-.5-9.5 4.4-12.8l1.5-1a73 73 0 0 0 3.2-2.2 16 16 0 0 0 6.8-11.4c.3-2 .1-4-.6-6l-.8.6-1.6 1a37 37 0 0 1-22.4 2.7c-5-.7-9.7-2-13.2-6.2Z" />
-    <style>
-        path { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #FFF; }
-        }
-    </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="64px"
+   height="64px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.76625"
+     inkscape:cx="399.34747"
+     inkscape:cy="399.34747"
+     inkscape:window-width="1600"
+     inkscape:window-height="785"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M15.612 11.842l1.452-2.622a1.954 1.954 0 0 0 .247-.95 1.572 1.572 0 0 0-.029-.28l2.364 2.364.707-.707-6-6-.707.707 2.365 2.364a1.572 1.572 0 0 0-.28-.029 1.958 1.958 0 0 0-.95.246l-2.623 1.453-7.092-7.092a1.019 1.019 0 0 0-1.435 0l-1.097 1.1a1.875 1.875 0 0 0-.295 2.264 30.92 30.92 0 0 0 5.349 6.612l.852.852-3.155 3.959-1.834-.936a1.06 1.06 0 0 0-1.295.162l-.851.851a1.032 1.032 0 0 0-.158 1.265l1.771 2.95-.772.772a.5.5 0 1 0 .707.707l.772-.771 2.951 1.77a1.03 1.03 0 0 0 1.264-.156l.851-.851a1.047 1.047 0 0 0 .178-1.267l-.951-1.863 3.959-3.155.845.844a30.966 30.966 0 0 0 6.619 5.357 1.876 1.876 0 0 0 2.266-.296l1.094-1.095a1.015 1.015 0 0 0 .001-1.437zm-.345-4.033a.956.956 0 0 1 .463-.12.58.58 0 0 1 .58.58.953.953 0 0 1-.12.465l-1.314 2.373-1.983-1.984zm5.632 12.95a.873.873 0 0 1-1.056.137 29.953 29.953 0 0 1-6.406-5.19l-1.484-1.484-5.297 4.22 1.323 2.591-.002.09.008.014-.895.858-2.736-1.642.5-.5a.5.5 0 0 0-.707-.706l-.497.496-1.64-2.776.853-.852 2.696 1.329 4.22-5.297-1.492-1.491a29.906 29.906 0 0 1-5.183-6.399.874.874 0 0 1 .137-1.055l1.12-1.098 17.634 17.658z"
+     id="path2"
+     style="fill:#ff2a2a" />
+  <path
+     fill="none"
+     d="M0 0h24v24H0z"
+     id="path4" />
 </svg>
