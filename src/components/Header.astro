@@ -1,6 +1,7 @@
 ---
 import HeaderLink from '@/components/HeaderLink'
 import Website from '@/components/icons/Website'
+import PhoneContact from '@/components/icons/PhoneContact'
 import MenuIcon from './icons/MenuIcon.astro'
 import Search from '@/components/Search'
 import TagIcon from './icons/TagIcon.astro'
@@ -12,6 +13,11 @@ const SOCIALNETWORKS = [
 		name: 'ETS Website',
 		url: 'https://www.ets-certs.com',
 		icon: Website
+	},
+	{
+		name: 'Call Us',
+		url: '/post/contact/',
+		icon: PhoneContact
 	}
 ]
 ---
@@ -37,7 +43,7 @@ const SOCIALNETWORKS = [
 			<div class='flex justify-center items-center md:justify-end gap-3 md:p-0'>
 				{
 					SOCIALNETWORKS.map((network) => (
-						<HeaderLink class='' href={network.url} target='_blank' aria-label={network.name}>
+						<HeaderLink class='' href={network.url} aria-label={network.name}>
 							<span>{<network.icon />} </span>
 						</HeaderLink>
 					))
